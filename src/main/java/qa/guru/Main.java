@@ -7,7 +7,7 @@ public class Main {
         if (args.length == 0){
         // Press Opt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello  welcome!!!!!");
+        System.out.printf("Hello  welcome!s!!!!");
         }
 
     }
